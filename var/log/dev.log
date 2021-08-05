@@ -1,0 +1,6 @@
+[2021-08-05T05:53:17.141130+02:00] request.INFO: Matched route "listar_libro". {"route":"listar_libro","route_parameters":{"_route":"listar_libro","_controller":"App\\Controller\\LibroController::listarLibro"},"request_uri":"http://127.0.0.1:8000/libro/listar?titulo=Steve%20Job","method":"GET"} []
+[2021-08-05T05:53:17.145214+02:00] app.INFO: Logeado correctamente [] []
+[2021-08-05T05:55:25.950845+02:00] request.INFO: Matched route "listar_libro". {"route":"listar_libro","route_parameters":{"_route":"listar_libro","_controller":"App\\Controller\\LibroController::listarLibro"},"request_uri":"http://127.0.0.1:8000/libro/listar?titulo=Steve%20Job","method":"GET"} []
+[2021-08-05T05:55:25.962145+02:00] app.INFO: Logeado correctamente [] []
+[2021-08-05T05:56:03.299296+02:00] request.INFO: Matched route "listar_libro". {"route":"listar_libro","route_parameters":{"_route":"listar_libro","_controller":"App\\Controller\\LibroController::listarLibro"},"request_uri":"http://127.0.0.1:8000/libro/listar?titulo=Steve%20Job","method":"GET"} []
+[2021-08-05T05:56:03.315926+02:00] app.INFO: Logueado correctamente [] []

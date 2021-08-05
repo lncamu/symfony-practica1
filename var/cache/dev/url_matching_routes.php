@@ -8,6 +8,7 @@
 return [
     false, // $matchHost
     [ // $staticRoutes
+        '/libro/listar' => [[['_route' => 'listar_libro', '_controller' => 'App\\Controller\\LibroController::listarLibro'], null, null, null, false, false, null]],
     ],
     [ // $regexpList
         0 => '{^(?'
